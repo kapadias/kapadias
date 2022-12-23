@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-I am a Operations Research graduate from [Northeaster University](https://www.northeastern.edu) and currently working as a Data Science Manager at [Monster Worldwide](https://www.monster.com). For more details about my work and projects, check out my [profile](https://www.linkedin.com/in/shashankkapadia/)!
+Welcome to my GitHub profile! 
+
+As a Data Science leader with over 7 years of industry experience and a Master's degree in Operations Research from Northeastern University (where I graduated as valedictorian), I have developed a strong skill set in advanced analytical techniques, machine learning, and data-driven decision-making. My past projects include work on search engines, recommender systems, and AI ethics.
+
+On my GitHub profile, you can find a range of projects that showcase my technical skills and expertise in the field of data science. In addition to my technical skills, I am also committed to the ethical development of artificial intelligence and ensuring that its benefits are distributed fairly.
+
+I am always looking for ways to expand my knowledge and stay up to date with the latest developments in the field. I enjoy sharing my experience through writing data science tutorials and articles, and I hope that my GitHub profile can serve as a helpful resource for others in the data science community.
+
+To learn more about my work and experience, check out my [LinkedIn](https://www.linkedin.com/in/shashankkapadia/)! profile.
+
+Thank you for visiting my profile.
 
 :bulb: Updates
 
