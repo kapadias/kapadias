@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-As a Data Science leader with over 7 years of industry experience and a Master's degree in Operations Research from Northeastern University (where I graduated as valedictorian), I have developed a strong skill set in advanced analytical techniques, machine learning, and data-driven decision-making. My past projects include work on search engines, recommender systems, and AI ethics.
+As a Data Science leader with over 7 years of industry experience and a Master's degree in Operations Research from Northeastern University, I have developed a strong skill set in advanced analytical techniques, machine learning, and data-driven decision-making. My past projects include work on search engines, recommender systems, and AI ethics.
 
 On my GitHub profile, you can find a range of projects that showcase my technical skills and expertise in the field of data science. In addition to my technical skills, I am also committed to the ethical development of artificial intelligence and ensuring that its benefits are distributed fairly.
 
