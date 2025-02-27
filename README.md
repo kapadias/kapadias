@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-As a Data Science leader with **over a decade of industry experience** and a Master’s degree in Operations Research from Northeastern University, I’ve developed a strong skill set in advanced analytical techniques, machine learning, and data-driven decision-making. My past projects span large-scale AI solutions at global organizations—like Walmart, Randstad, and Monster Worldwide—encompassing search engines, recommender systems, and pioneering work in AI ethics.
+As a Machine Learning Engineering leader with **over a decade of industry experience** and a Master’s degree in Operations Research from Northeastern University, I’ve developed a strong skill set in advanced analytical techniques, machine learning, and data-driven decision-making. My past projects span large-scale AI solutions at global organizations—like Walmart, Randstad, and Monster Worldwide—encompassing search engines, recommender systems, and pioneering work in AI ethics.
 
 On my GitHub profile, you’ll find a range of projects showcasing my technical expertise in data science and machine learning. In addition to my coding endeavors, I am deeply committed to the ethical development of artificial intelligence, striving to ensure its benefits are distributed fairly and transparently.
 
