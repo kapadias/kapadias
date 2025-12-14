@@ -1,34 +1,73 @@
-### Hi there 👋
+## 👋 Shashank Kapadia
 
-Welcome to my GitHub profile!
+**Principal / Staff Machine Learning Engineer**  
+Scalable AI Systems • Search & Recommendations • Responsible AI
 
-As a Machine Learning Engineering leader with **over a decade of industry experience** and a Master’s degree in Operations Research from Northeastern University, I’ve developed a strong skill set in advanced analytical techniques, machine learning, and data-driven decision-making. My past projects span large-scale AI solutions at global organizations—like Walmart, Randstad, and Monster Worldwide—encompassing search engines, recommender systems, and pioneering work in AI ethics.
+I design and lead **large-scale ML systems** deployed in production, serving **200M+ users** and driving **$100M+ in business impact** across Fortune-500 companies.
 
-On my GitHub profile, you’ll find a range of projects showcasing my technical expertise in data science and machine learning. In addition to my coding endeavors, I am deeply committed to the ethical development of artificial intelligence, striving to ensure its benefits are distributed fairly and transparently.
+Currently **Staff ML Engineer @ Walmart Global Tech**. Previously senior ML leadership roles at **Randstad** and **Monster Worldwide**.
 
-I am always looking for ways to expand my knowledge and stay current with the latest developments in the field. I enjoy sharing my experiences through tutorials, articles, published research, and mentorship—and I hope my GitHub can serve as a helpful resource for others in the machine learning community.
+---
 
-To learn more about my work and experience, check out my [LinkedIn](https://www.linkedin.com/in/shashankkapadia/) profile.
+## 🔍 Focus Areas
 
-Thank you for visiting my profile.
+- **Search & Recommendation Systems**
+  - Retrieval, ranking, substitution, personalization
+  - Hybrid vector search, LTR, transformers, embeddings, bandits
 
-### Speaking Engagements
-I regularly speak at global conferences on topics like large-scale AI solutions, algorithmic fairness, and real-world applications of NLP and recommender systems. I’ve also served as a mentor and judge at hackathons—guiding teams to award-winning results. If you’re looking for a speaker or mentor, feel free to reach out!
+- **ML Platforms & Systems**
+  - Training, inference, evaluation, monitoring at scale
+  - Spark, BigQuery, GCP, GPU optimization, low-latency inference
 
-<!--
-**kapadias/kapadias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+- **Applied NLP & Optimization**
+  - Transformer models, robust optimization, decision systems
+  - Applications across retail, healthcare, logistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Responsible AI**
+  - Fairness, explainability, cost-efficient architectures in production
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kapadias)
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapadias" alt="kapadias" /> </p>
+## 📊 Impact Snapshot
+
+- **200M+ users** served globally
+- **$100M+ measurable business impact**
+- **40% latency reduction**, **80% compute savings**
+- Platforms spanning **20+ countries** and **20+ languages**
+
+---
+
+## 📚 Research & Community
+
+- Peer-reviewed publications in **Operations Research & Optimization**
+- Widely referenced technical writing used by **MIT, Duke, Michigan, Penn, UCSB**
+- **138+ academic citations**, **200+ external backlinks**
+- Speaker at global AI conferences
+- Reviewer / judge / advisory board member for AI organizations
+
+---
+
+## 🏅 Recognition
+
+- **Gold & Silver Globee Awards** — AI Professional of the Year
+- Senior Member, **IEEE**
+- Advisory Board, **AI Accelerate Institute**
+- Fellow, **Soft Computing Research Society**
+
+---
+
+## 🛠️ This GitHub
+
+- End-to-end ML implementations
+- Evaluation frameworks & system design patterns
+- Practical code reflecting real production constraints
+
+---
+
+## 🤝 Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shashankkapadia/)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapadias&show_icons=true&hide_border=true)
