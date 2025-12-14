@@ -1,6 +1,6 @@
 ## 👋 Shashank Kapadia
 
-**Principal / Staff Machine Learning Engineer**  
+**Machine Learning Engineer**  
 Scalable AI Systems • Search & Recommendations • Responsible AI
 
 I design and lead **large-scale ML systems** deployed in production, serving **200M+ users** and driving **$100M+ in business impact** across Fortune-500 companies.
